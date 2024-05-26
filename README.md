@@ -1,5 +1,5 @@
 ## Skills  
-<div align="center">  
+<div>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
@@ -18,7 +18,7 @@
 
 
 ## Socials  
-<div align="center">
+<div>
 <a href="https://github.com/https://github.com/ervinpiol" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -36,10 +36,6 @@
 
 <br/>  
 
-  
-
-<br/>  
-
-<div align="center">
+<div>
 <img src="https://komarev.com/ghpvc/?username=ervinpiol&&style=flat-square" align="center" />
 </div>  
