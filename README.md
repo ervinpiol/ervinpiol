@@ -19,16 +19,16 @@
 
 ## Socials  
 <div>
-<a href="https://github.com/https://github.com/ervinpiol" target="_blank">
+<a href="https://github.com/ervinpiol" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ervin-piol/" target="_blank">
+<a href="https://linkedin.com/in/ervin-piol/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://web.facebook.com/ervinvincepiol" target="_blank">
+<a href="https://www.facebook.com/ervinvincepiol" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/ervinvincepiol/" target="_blank">
+<a href="https://instagram.com/ervinvincepiol/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
