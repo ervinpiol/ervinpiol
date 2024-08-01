@@ -16,6 +16,13 @@
 
 <br/>  
 
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ervinpiol&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ervinpiol&theme=vue&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ervinpiol&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ervinpiol&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ervinpiol&theme=discord_old_blurple)
+
 
 ## Socials  
 <div>
